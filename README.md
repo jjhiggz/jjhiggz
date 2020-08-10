@@ -66,7 +66,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://jon-higger-software-dev.web.app/
-[twitter]: https://twitter.com/codeSTACKr
+[medium]: https://medium.com/@jonathan.higger
 [youtube]: https://www.youtube.com/channel/UCioHRdfCxyXJZ9rKePIg7sg
 [instagram]: https://www.instagram.com/higgzmadethebeat/
 [linkedin]: https://www.linkedin.com/in/jonathan-higger/
