@@ -29,7 +29,14 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/vue-dot-js.svg" />][website]
+[<img align="left" alt="vue" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/vue-dot-js.svg" />][website]
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />][website]
+[<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/firebase.svg" />][website]
+[<img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/flutter.svg" />][website]
+[<img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/debian.svg" />][website]
+[<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/django.svg" />][website]
+[<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/dart.svg" />][website]
+[<img align="left" alt="mathworks" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/mathworks.svg" />][website]
 
 <br />
 <br />
