@@ -63,7 +63,9 @@
 
 ---
 
-<img align="left" alt="jjhiggz's Github Stats" src="https://github-readme-stats.jjhiggz.vercel.app/api?username=jjhiggz&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="jjhiggz's Github Stats" src="https://github-readme-stats.jjhiggz.vercel.app/api?username=jjhiggz&show_icons=true&hide_border=true" /> -->
+
+[![Jon's github stats](https://github-readme-stats.vercel.app/api?username=jjhiggz)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jon-higger-software-dev.web.app/
 [medium]: https://medium.com/@jonathan.higger
