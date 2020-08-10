@@ -1,5 +1,3 @@
-### I'm Jon Higger - aka [jjhiggz][website] 👋
-
 ## I'm a Full Stack Developer with a background in Chemical Engineering!
 - 🔭 I’m currently working on a date ideas app in Flutter!
 - 🌱 I’m currently learning Vue, Python, Flutter, and algorithms. 
