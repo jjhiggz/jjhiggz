@@ -60,6 +60,8 @@
 
 [![Jon's github stats](https://github-readme-stats.vercel.app/api?username=jjhiggz)](https://github.com/anuraghazra/github-readme-stats)
 
+[![jjhiggz's github stats](https://github-readme-stats.vercel.app/api?username=jjhiggz)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://jon-higger-software-dev.web.app/
 [medium]: https://medium.com/@jonathan.higger
 [youtube]: https://www.youtube.com/channel/UCioHRdfCxyXJZ9rKePIg7sg
