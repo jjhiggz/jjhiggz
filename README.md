@@ -54,6 +54,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Coding Challenge Resources](https://medium.com/@jonathan.higger/top-5-coding-challenge-resources-a17d987ede58?source=rss-c60f10341548------2)
+- [Flutter, My Next Adventure](https://medium.com/@jonathan.higger/flutter-my-next-adventure-93bb144c7a6?source=rss-c60f10341548------2)
+- [Sheet.Best is Awesome](https://medium.com/@jonathan.higger/sheet-best-is-awesome-35207920afb1?source=rss-c60f10341548------2)
+- [Vue > React //#=> true](https://medium.com/@jonathan.higger/vue-react-true-1b9ee5fe258d?source=rss-c60f10341548------2)
+- [Those who can’t do…](https://medium.com/@jonathan.higger/those-who-cant-do-9d02199e4dee?source=rss-c60f10341548------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
