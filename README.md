@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ES-2015 Syntax](https://www.youtube.com/watch?v=GLeB9LXQcME)
+- [ES2015(ES6) Syntax and Callback Functions](https://www.youtube.com/watch?v=BjoJCqEdVxE)
 - [IMDB scraper demo](https://www.youtube.com/watch?v=z8l0gF-8BI4)
 - [Personal Website Walkthrough](https://www.youtube.com/watch?v=MjakbY2NBU0)
 - [DOOMTYPER Walkthrough](https://www.youtube.com/watch?v=lqyaX7h29iY)
-- [mod 4 cc part 3](https://www.youtube.com/watch?v=Vl0vhqCWXA4)
-- [Mod 4 CC part-1](https://www.youtube.com/watch?v=em2Dbt6Nsr0)
 <!-- YOUTUBE:END -->
 
 ---
