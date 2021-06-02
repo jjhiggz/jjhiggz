@@ -1,8 +1,8 @@
 ## I'm a Full Stack Developer with a background in Chemical Engineering!
-- 🔭 I’m currently working on a date ideas app in Flutter!
-- 🌱 I’m currently learning Vue, Python, Flutter, and algorithms. 
-- 👯 I’m looking to collaborate with other developers to diversify my portfolio. 
-- 🥅 2020 Goals: Get Developer Job, Deploy App to Apple Store, Lose 30 lbs
+- 🔭 I’m currently working on a date ideas app in React Native, it's called Dative and I can't wait to show it to y'all!
+- 🌱 I’m currently learning NestJs, React Native, Docker, TypeORM, and anything else important that comes my way. 
+- 👯 I'm passionate about tech education. I love bringing positivity into people lives through coding! 
+- 🥅 2021 Goals: Gain elegance in programming technique and project design, cybersecurity knowledge, algorithms.
 - ⚡ Fun fact: I love producing music, making music videos.
 
 ### Connect with me:
