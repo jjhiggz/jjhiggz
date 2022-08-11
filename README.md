@@ -1,6 +1,6 @@
 ## I'm a Full Stack Developer with a background in Chemical Engineering!
-- 🔭 I’m currently working on a date ideas app in React Native, it's called Dative and I can't wait to show it to y'all!
-- 🌱 I’m currently learning NestJs, React Native, Docker, TypeORM, and anything else important that comes my way. 
+- 🔭 I’m currently working on ReMenu, an exciting way to empower restaurants to be in charge of the data on their own websites!
+- 🌱 I’m currently working with Remix and LOVING IT and it's data loading patterns. 
 - 👯 I'm passionate about tech education. I love bringing positivity into people lives through coding! 
 - 🥅 2021 Goals: Gain elegance in programming technique and project design, cybersecurity knowledge, algorithms.
 - ⚡ Fun fact: I love producing music, making music videos.
